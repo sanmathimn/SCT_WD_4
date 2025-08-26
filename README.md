@@ -27,6 +27,8 @@ Develop a basic to-do app that enables users to:
 - JavaScript
 
 ---
+🎥 **LinkedIn Video**   
+[LinkedIn Post 🔗](https://www.linkedin.com/posts/activity-7366024629318057984-5AAc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFxllrAB2mP6usCdZraySPtZAqF6EL0J9c0)
 
 *This project is part of the SkillCraft Web Development Internship.*
 
